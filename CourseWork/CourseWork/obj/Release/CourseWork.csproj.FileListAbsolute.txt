@@ -1,0 +1,13 @@
+C:\D\Coursework\CourseWork\CourseWork\bin\Release\CourseWork.exe.config
+C:\D\Coursework\CourseWork\CourseWork\bin\Release\CourseWork.exe
+C:\D\Coursework\CourseWork\CourseWork\bin\Release\CourseWork.pdb
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.csproj.AssemblyReference.cache
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.GameItself.resources
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.HighScoreForms.resources
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.MainScreen.resources
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.Properties.Resources.resources
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.csproj.GenerateResource.cache
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.csproj.CoreCompileInputs.cache
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.exe
+C:\D\Coursework\CourseWork\CourseWork\obj\Release\CourseWork.pdb
